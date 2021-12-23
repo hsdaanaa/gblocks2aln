@@ -1,0 +1,18 @@
+add_gblocks_marker_to_alns
+--------------------------
+start time              : Thu Dec 23 18:02:59 2021
+aln dir                 : ../samples/sample_2/10_input
+suffix of aln files     : .aln
+out dir                 : ../samples/sample_2/20_output
+dataset name            : test_dataset
+max_len_for_uncon_block : 7
+min_seq_for_flank       : 3
+min_seq_for_cons        : 3
+min_block_len           : 3
+gap_block_stat          : n
+seq_type                : c
+threads                 : 4
+verbose                 : 1
+---------processing-------
+number of alignments: 3
+endtime: Thu Dec 23 18:02:59 2021
